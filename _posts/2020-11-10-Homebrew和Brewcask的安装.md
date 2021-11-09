@@ -3,7 +3,7 @@ title: Homebrew和Brewcask的安装
 author: Misaka
 date: 2020-11-10 19:43:00 +0800
 categories: [Other]
-tags: [macOS, Other]
+tags: [macOS, Other, Linux]
 math: true
 ---
 
