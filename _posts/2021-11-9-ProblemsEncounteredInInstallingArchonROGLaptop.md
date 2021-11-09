@@ -1,7 +1,7 @@
 ---
 title: ProblemsEncounteredInInstallingArchonROGLaptop
 author: Misaka
-date: 2021-10-16 11:22:01 +0800
+date: 2021-11-9 9:22:01 +0800
 categories: [Other]
 tags: [Arch, Linux]
 math: true
