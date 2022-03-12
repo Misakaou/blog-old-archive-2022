@@ -21,3 +21,4 @@ order: 4
 ## 联系我
 
 - 邮件：<feedback@moeomu.com>
+- [GPG Key](./assets/Misaka_0x9A630CD2_public.asc)
