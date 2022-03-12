@@ -17,4 +17,8 @@
 ## 联系我
 
 - 邮件：<feedback@moeomu.com>
-- [GPG Key](/assets/Misaka_0x9A630CD2_public.asc)
+- [GPG Key](./assets/Misaka_0x9A630CD2_public.asc)
+
+## 构建状态
+
+[![Automatic build](https://github.com/BloveDawn/blovedawn.github.io/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/BloveDawn/blovedawn.github.io/actions/workflows/pages-deploy.yml)
